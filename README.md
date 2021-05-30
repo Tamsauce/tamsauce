@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby and SQL**
 
-- 👨‍💻 All of my projects are available at Tamsauce.com
+- 👨‍💻 All of my projects are available at [Tamsauce.com]
 
 - 📝 I regularly write articles on [coming soon](coming soon)
 
