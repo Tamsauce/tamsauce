@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ["Forever Home" - Pet Recuse App](coming soon)
 
-- 🌱 I’m currently learning **Ruby and SQL**
+- 🌱 I’m currently learning **React and SQL**
 
 - 👨‍💻 All of my projects are available at [Tamsauce.com]
 
