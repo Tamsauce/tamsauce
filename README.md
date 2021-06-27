@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tami Hughes</h1>
 <h3 align="center">A passionate frontend developer from San Diego</h3>
 
-- 🔭 I’m currently working on ["Forever Home" - Pet Recuse App](coming soon)
+- 🔭 I’m currently working on ["Wag Right"](coming soon)
 
 - 🌱 I’m currently learning **React and SQL**
 
