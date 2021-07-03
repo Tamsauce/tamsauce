@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thughes78@gmail.com**
 
-- 📄 Learn more about my experiences by checking out my [resume](https://drive.google.com/file/d/18PkCXb0LAMV2jog3vEkKFYw4AgY2y9HY/view)
+- 📄 Learn more about my experiences by checking out my [resume](https://drive.google.com/file/d/1dnG3Er01vulwQn8XadDr2o-ZvNnyWF8l/view).
 
 - ⚡ Fun fact **I haven't consumed any caffeine since 2013. Not very dev of me!**☕☕
 
