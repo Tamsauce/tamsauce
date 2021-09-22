@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and TypeScript**
 
-- 🙌I recently finished a [Grocery Store App](https://personal-grocery-store-list.herokuapp.com/) that allows users to get through their shopping list faster by sorting their needed items by department.]
+- 🙌I recently finished a [Grocery Store App](https://personal-grocery-store-list.herokuapp.com/) that allows users to get through their shopping list faster by sorting their needed items by department.
 
 - 👨‍💻 All of my projects are available at [tamsauce.com](https://www.tamsauce.com/)
 
