@@ -11,7 +11,7 @@ Outside of QA and Accessibility, I build custom AI agents, automation workflows,
 
 - **JobSuite** — A React/Vite job search automation dashboard I built to assist with job searches. Cover Letter Generator, Resume Builder with keyword gap analysis, Job Fit Evaluator, Job Tracker with Excel import/export, and Interview Prep. [jobsuite.tamsauce.com](https://jobsuite.tamsauce.com)
 - **Tamsauce Consulting** — AI agents, automation workflows, and mini SaaS products. [tamsauce.com](https://tamsauce.com)
-- **Shift Lefties** — QA and accessibility audit services specializing in early-stage defect detection and WCAG compliance, for product teams, development teams, and independent builders.
+- **Shift Lefties** — QA and accessibility audit services specializing in early-stage defect detection and WCAG compliance, for product teams, development teams, and independent builders. [shiftlefties.com](https://shiftlefties.com)
 
 ## ♿ Accessibility Credentials 
 
