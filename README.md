@@ -13,12 +13,13 @@ Outside of QA and Accessibility, I build custom AI agents, automation workflows,
 - **Tamsauce Consulting** — AI agents, automation workflows, and mini SaaS products. [tamsauce.com](https://tamsauce.com)
 - **Shift Lefties** — QA and accessibility audit services specializing in early-stage defect detection and WCAG compliance, for product teams, development teams, and independent builders. [shiftlefties.com](https://shiftlefties.com)
 
-## ♿ Accessibility Credentials 
+## ♿ Accessibility & QA Credentials 
 
 - **WAS Certified** (Web Accessibility Specialist) — IAAP
 - 250+ accessibility defects remediated across AT&T and Cricket Wireless products
 - Screen reader coverage: NVDA, VoiceOver, JAWS
-- ISTQB CTFL · DHS Trusted Tester *(in progress)*
+- ISTQB CTFL Certification *(in progress)*
+- DHS Trusted Tester *(in progress)*
 
 ## ⚡ Fun fact
 
